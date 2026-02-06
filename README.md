@@ -64,5 +64,5 @@ Collect, consolidate, and automate mutual fund portfolio data from public source
 
 ## Steps to Run
 
-pip install -r requirements.txt
-python main.py
+  - pip install -r requirements.txt
+  - python main.py
