@@ -1,0 +1,4 @@
+pandas>=1.5.0
+openpyxl>=3.1.0       # required to read .xlsx files with pandas
+requests>=2.31.0      # for API downloads
+xlrd>=2.0.1
